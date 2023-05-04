@@ -4,3 +4,7 @@
 .cursor{
     cursor: pointer;
 }
+.invalid-feedback {
+    color: maroon;
+    font-size: 12px
+}
